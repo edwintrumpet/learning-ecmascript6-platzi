@@ -1,0 +1,24 @@
+{
+  "name": "ecmascript",
+  "version": "1.0.0",
+  "description": "Examples of Platzi ECMASCRIPT6 course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript6",
+    "es6"
+  ],
+  "author": "Edwin García <spark.com.co@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwintrumpet/learning-ecmascript6-platzi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/edwintrumpet/learning-ecmascript6-platzi/issues"
+  },
+  "homepage": "https://github.com/edwintrumpet/learning-ecmascript6-platzi#readme"
+}
