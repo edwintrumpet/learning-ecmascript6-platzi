@@ -3,8 +3,8 @@ const names = [
     { name: "Lorena", age: 25 }
 ];
 
-const listOfNamesWithOldFunctions = names.map(function (item) {
+names.forEach(function (item) {
     console.log(item.name);
 });
 
-const listOfNamesWithArrowFunctions = names.map(item => console.log(item.name));
+names.forEach(item => console.log(item.name));
