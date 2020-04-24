@@ -1,7 +1,7 @@
-const firstWord = 'Hello';
-const secondWord = 'World';
+const firstWord = "Hello";
+const secondWord = "World";
 
-const oldConcat = firstWord + ' ' + secondWord;
+const oldConcat = firstWord + " " + secondWord;
 
 const usingTemplateLiterals = `${firstWord} ${secondWord}`;
 
